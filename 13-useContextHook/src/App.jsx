@@ -10,6 +10,7 @@ import { createContext, useState } from 'react'
 // step 3: pass the value
 // step 4:consumer ke andar jake consume kr lo
 
+// const UserContext=createContext();
 const ThemeContext=createContext();
 
 const App = () => {
